@@ -1,0 +1,15 @@
+{
+  "name": "ecco",
+  "version": "0.0.1",
+  "description": "Trivial echo server in node/express",
+  "main": "src/main/app.js",
+  "scripts": {
+    "start": "node src/main/app.js",	  
+    "test": "echo \"Warning: no test specified\""
+  },
+  "author": "Tom Johnson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
